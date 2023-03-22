@@ -50,7 +50,7 @@ body {
 .image-1{
     height: 100px;
     width: 100px;
-    background-image:url(imagenes/ash.jpg);
+    background-image:url(ash.jpg);
     position: relative;
     top: 200px;
     margin-left: 170px;
@@ -63,7 +63,7 @@ body {
 .image-2 {
     height: 100px;
     width: 100px;
-    background-image:url(imagenes/bri.jpg);
+    background-image:url(bri.jpg);
     position: relative;
     top: 200px;
     margin-left: 170px;
